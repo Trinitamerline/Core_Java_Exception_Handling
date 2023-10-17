@@ -2,7 +2,6 @@
 Objective: To implement the concept of exception handling in Java.
 
 Pre-Lab Exercise:
-
 Create three exception classes as detailed in the following class diagram:
 
 In the main() method get input for two operands and one operator from the
